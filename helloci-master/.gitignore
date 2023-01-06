@@ -7,10 +7,10 @@
 *.ncb
 *.log 
 
-target/
-.classpath
-.project
-.settings
+#target/
+#.classpath
+#.project
+#.settings
 
 *.DS_Store
 [Tt]humbs.db
